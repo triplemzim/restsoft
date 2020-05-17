@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/restsoft/static/css/main.5b1b5212.chunk.css",
-    "main.js": "/restsoft/static/js/main.30ceee0e.chunk.js",
-    "main.js.map": "/restsoft/static/js/main.30ceee0e.chunk.js.map",
+    "main.js": "/restsoft/static/js/main.52076a10.chunk.js",
+    "main.js.map": "/restsoft/static/js/main.52076a10.chunk.js.map",
     "runtime-main.js": "/restsoft/static/js/runtime-main.3e732bff.js",
     "runtime-main.js.map": "/restsoft/static/js/runtime-main.3e732bff.js.map",
-    "static/js/2.5ebeea70.chunk.js": "/restsoft/static/js/2.5ebeea70.chunk.js",
-    "static/js/2.5ebeea70.chunk.js.map": "/restsoft/static/js/2.5ebeea70.chunk.js.map",
+    "static/js/2.fa3089f2.chunk.js": "/restsoft/static/js/2.fa3089f2.chunk.js",
+    "static/js/2.fa3089f2.chunk.js.map": "/restsoft/static/js/2.fa3089f2.chunk.js.map",
     "index.html": "/restsoft/index.html",
-    "precache-manifest.04c1d5f4355c23de6d5c831714973443.js": "/restsoft/precache-manifest.04c1d5f4355c23de6d5c831714973443.js",
+    "precache-manifest.398dc8deeb721b47c6e74d8a76882d6d.js": "/restsoft/precache-manifest.398dc8deeb721b47c6e74d8a76882d6d.js",
     "service-worker.js": "/restsoft/service-worker.js",
     "static/css/main.5b1b5212.chunk.css.map": "/restsoft/static/css/main.5b1b5212.chunk.css.map",
-    "static/js/2.5ebeea70.chunk.js.LICENSE.txt": "/restsoft/static/js/2.5ebeea70.chunk.js.LICENSE.txt",
+    "static/js/2.fa3089f2.chunk.js.LICENSE.txt": "/restsoft/static/js/2.fa3089f2.chunk.js.LICENSE.txt",
     "static/media/alertTone.mp3": "/restsoft/static/media/alertTone.29dd3710.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.3e732bff.js",
-    "static/js/2.5ebeea70.chunk.js",
+    "static/js/2.fa3089f2.chunk.js",
     "static/css/main.5b1b5212.chunk.css",
-    "static/js/main.30ceee0e.chunk.js"
+    "static/js/main.52076a10.chunk.js"
   ]
 }

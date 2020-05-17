@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ae1664a8da125baa221e584799377dd",
+    "revision": "b531b9803a6a77d3a3c12afd3aa8586e",
     "url": "/restsoft/index.html"
   },
   {
-    "revision": "7dd8e2be94ac04f21a03",
+    "revision": "f5045cc146b6fc1a2f5f",
     "url": "/restsoft/static/css/main.5b1b5212.chunk.css"
   },
   {
-    "revision": "785a1d88766eba433a62",
-    "url": "/restsoft/static/js/2.5ebeea70.chunk.js"
+    "revision": "26ba029d5bfa7d98c232",
+    "url": "/restsoft/static/js/2.fa3089f2.chunk.js"
   },
   {
-    "revision": "156bbcbc81f22092bd306eb0b0ccb7d6",
-    "url": "/restsoft/static/js/2.5ebeea70.chunk.js.LICENSE.txt"
+    "revision": "75df6f9fcf626ab9d00181b045adc9b3",
+    "url": "/restsoft/static/js/2.fa3089f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7dd8e2be94ac04f21a03",
-    "url": "/restsoft/static/js/main.30ceee0e.chunk.js"
+    "revision": "f5045cc146b6fc1a2f5f",
+    "url": "/restsoft/static/js/main.52076a10.chunk.js"
   },
   {
     "revision": "2a2720503ced2062456b",
